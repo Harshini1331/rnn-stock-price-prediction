@@ -124,7 +124,6 @@ from sklearn.metrics import mean_squared_error as mse
 mse(y_test,predicted_stock_price)
 
 ```
-
 ## OUTPUT
 
 ### True Stock Price, Predicted Stock Price vs time
@@ -132,7 +131,6 @@ mse(y_test,predicted_stock_price)
 
 ### Mean Square Error
 <img width="523" alt="image" src="https://user-images.githubusercontent.com/75235554/195050261-a73528a0-ba06-4df4-bf16-dcfbe30f0b78.png">
-
 
 ## RESULT
 Thus, we have successfully created a Simple RNN model for Stock Price Prediction.
