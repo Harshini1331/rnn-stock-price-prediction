@@ -1,4 +1,4 @@
-# Stock Price Prediction
+# <p align="center">Stock Price Prediction</p>
 
 ## AIM
 
